@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yashaswa09
+- 👋 Hi, I’m Yashaswa Alguje
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Project
