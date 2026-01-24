@@ -4,7 +4,8 @@
 <h1 align="center">Hi 👋, I'm Yashaswa</h1>
 <h3 align="center">AI & Data Science Student | Python Developer | Web Enthusiast</h3>
 
-<img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img align="right" width="320" src="yashaswa_profile.gif">
+
 
 ---
 
