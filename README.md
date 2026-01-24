@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Yashaswa</h1>
 <h3 align="center">AI & Data Science Student | Python Developer | Web Enthusiast</h3>
 
-<img align="right" alt="coding" width="250" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="350"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
@@ -22,17 +22,17 @@
 
 ### 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,C,js,html,css" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,nodejs" />
 </p>
 
 ### 🛠 Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
