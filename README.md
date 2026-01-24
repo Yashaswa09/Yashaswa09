@@ -5,7 +5,7 @@
 <h3 align="center">AI & Data Science Student | Python Developer | Web Enthusiast</h3>
 
 <p align="center">
-  <img width="380" src="yashaswa_white_transparent.gif">
+  <img width="520" src="yashaswa_white_transparent.gif">
 </p>
 
 
