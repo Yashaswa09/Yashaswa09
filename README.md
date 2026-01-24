@@ -1,4 +1,4 @@
-# Yashaswa/Yashaswa
+# Yashaswa09/Yashaswa09
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Yashaswa</h1>
 <h3 align="center">AI & Data Science Student | Python Developer | Web Enthusiast</h3>
