@@ -32,7 +32,7 @@
 
 ### ⚙️ Frameworks & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,metasploit,matplotlib,mysql,pylance" />
 </p>
 
 ### 🛠 Tools & Platforms
