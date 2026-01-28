@@ -37,7 +37,7 @@
 
 ### 🛠 Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,archlinux" />
 </p>
 
 ---
