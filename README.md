@@ -32,12 +32,12 @@
 
 ### ⚙️ Frameworks & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,django,metasploit,matplotlib,mysql,pylance" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,mysql" />
 </p>
 
 ### 🛠 Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arch,debian,bsd" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arch,debian,bsd,redhat" />
 </p>
 
 ---
